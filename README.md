@@ -1,13 +1,12 @@
-### Welcome to my GitHub! 👋
+### Olá, seja bem vindo ao meu GitHub! 👋
 
-- 🔭 Working with front and back-end.
-- :house_with_garden: I’m from Brazil.
+- 🔭 Trabalho com front e back-end.
 
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](http://wa.me/5574988087109) 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](jorge.junior.gm@gmail.com) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jorgejuniordeveloper)  
 
->I work with:
+>Trabalho com:
 <div style="display: inline_block">
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-FFFF99?style=for-the-badge&logo=mysql&logoColor=black">
@@ -17,12 +16,12 @@
   <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div><br>
 
->Studying:
+>Estudando:
 <div style="display: inline_block">
   <img align="center" alt="LARAVEL" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </div><br>
 
->I already studied:
+>Já estudei (na graduação):
 <div style="display: inline_block">
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
@@ -30,7 +29,7 @@
   <img align="center" alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div><br>
 
->List of upcoming studies:
+>Lista de próximos estudos:
 <div style="display: inline_block">
   <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="TAILWIND CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
