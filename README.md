@@ -7,13 +7,6 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](jorge.junior.gm@gmail.com) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jorgejuniordeveloper)  
 
-<p align="left">
-<a href="https://github.com/jorgejuniordev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgejuniordev&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgejuniordev&layout=compact&theme=dracula"/>
-</a>
-</p>
-
 >I work with:
 <div style="display: inline_block">
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -42,4 +35,12 @@
   <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="TAILWIND CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div><br>
+
+<p align="left">
+<a href="https://github.com/jorgejuniordev">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jorgejuniordev&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgejuniordev&layout=compact&theme=dark"/>
+</a>
+</p>
+
 <img src="https://visitor-badge.glitch.me/badge?page_id=jorgejuniordev" alt="visitors"/>
